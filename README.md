@@ -4,6 +4,6 @@ CFG (Classifier-Free Guidance): compliance with the prompts. 1-6 -> Low, 7-12 ->
 
 # Useful:
 
-Masterpiece
-Best Quality
-1girl
+Masterpiece  
+Best Quality  
+1girl  
